@@ -9,7 +9,7 @@ Convert your english text to pseudolocalized text in your browser, just go to [t
 ## Conversion Table
 | Glyph | Conversions |
 | --- | --- |
-| **a** | `α, ä, á, à, ā, ǎ, ă, å, å` |
+| **a** | `α, ä, á, à, ā, ǎ, ă, å, å, д` |
 | **b** | `β, в, b, ƅ, ɓ, ь` |
 | **c** | `ċ, ç, ƈ, ć, č, ƈ, ɕ` |
 | **d** | `δ, đ, ɗ, ð, ď, ȡ, ɖ` |
@@ -35,7 +35,7 @@ Convert your english text to pseudolocalized text in your browser, just go to [t
 | **x** | `ẋ, ҳ, ҳ, ж` |
 | **y** | `ƴ, ¥, ұ, ỷ, ẏ, ý, ɣ, γ, ỿ` |
 | **z** | `ż, ź, ꙁ, ꙃ, ƺ, ʐ` |
-| **A** | `Α, Ä, Á, À, Ā, Ǎ, Ă, Å, Å, Ѧ` |
+| **A** | `Α, Ä, Á, À, Ā, Ǎ, Ă, Å, Å, Ѧ, Д` |
 | **B** | `Ɓ, Ƅ, Ь, Ḃ, Ḅ, Ḇ` |
 | **C** | `Ċ, Ç, Ƈ, Ć, Č, Ƈ` |
 | **D** | `Δ, Đ, Ɗ, Ð, Ď, Ḏ, Ɖ, Ḓ, Ḑ` |
