@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/github-1.0-lightgrey?logo=github&logoColor=lightgrey)
 
 ## Usage
-Convert your english text to pseudolocalized text in your browser, just go to [this page](https://wanja01yt.github.io/pseudolocalizer/)!
+Convert your english text to pseudolocalized text in your browser, just go to [this page](https://elidianesampaiotrabuco.github.io/PsExtraRewritten/)!
 
 ## Conversion Table
 | Glyph | Conversions |
