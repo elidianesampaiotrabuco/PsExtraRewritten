@@ -1,4 +1,4 @@
-# ƥƨèúδôℓôçáℓïƺèř
+# PsExtra: Rewritten (WIP)
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
 ![Static Badge](https://img.shields.io/badge/github-1.0-lightgrey?logo=github&logoColor=lightgrey)
