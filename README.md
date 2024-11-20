@@ -3,7 +3,7 @@
 > Development status: 5% finished (this means that the site is an alpha stage)
 
 > [!IMPORTANT]  
-> The site is currently offline, due to a storm. The site will be back online in 11/21/2024 at approx. 1 PM BRT.
+> The site is currently offline, due to a storm. The site will be back online on 11/21/2024 at approx. 1 PM BRT.
 
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
