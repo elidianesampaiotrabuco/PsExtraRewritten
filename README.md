@@ -1,12 +1,12 @@
 # PsExtra: Rewritten (WIP)
 > [!NOTE]  
-> Development status: 5% finished (this means that the site is an alpha stage)
+> Development status: 8% finished (this means that the site is an alpha stage)
 
 
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
-![Static Badge](https://img.shields.io/badge/github-v0.1.1-lightgrey?logo=github&logoColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/github-v0.1.2--alpha.1-lightgrey?logo=github&logoColor=lightgrey)
 
 ## Usage
 Convert your english text to pseudolocalized text in your browser, just go to [this page](https://elidianesampaiotrabuco.github.io/PsExtraRewritten/)!
@@ -18,7 +18,7 @@ Convert your english text to pseudolocalized text in your browser, just go to [t
 | **b** | `β, в, b, ƅ, ɓ, ь` |
 | **c** | `ċ, ç, ƈ, ć, č, ƈ, ɕ` |
 | **d** | `δ, đ, ɗ, ð, ď, ȡ, ɖ` |
-| **e** | `ε, ë, é, è, ē, ě, ҽ` |
+| **e** | `ε, ë, é, è, ē, ě, ҽ, ℮, ε` |
 | **f** | `ſ, ƒ, ẝ, ᶂ, ḟ` |
 | **g** | `ģ, ϱ, ġ, ğ, ḡ, ɠ, ᶃ` |
 | **h** | `н, λ, ħ, ճ` |
@@ -28,7 +28,7 @@ Convert your english text to pseudolocalized text in your browser, just go to [t
 | **l** | `ĺ, ļ, ł, ḷ, ḹ, ḻ, ḽ, ℓ` |
 | **m** | `ṃ, ₥, ṁ, m̃` |
 | **n** | `ŋ, ñ, ṇ, ṉ, ṋ, ռ, п` |
-| **o** | `ο, ö, ó, ò, ō, ǒ, ṍ, ṑ, ṓ, ṏ` |
+| **o** | `ο, ö, ó, ò, ō, ǒ, ṍ, ṑ, ṓ, ṏ, ø` |
 | **p** | `ƥ, ṗ, ρ, Ƥ, բ, ϱ` |
 | **q** | `ꝗ, 9, գ, զ` |
 | **r** | `ŕ, ŗ, ř, ȓ, ɾ, ɼ, г, ṙ, ṛ, ṝ, ṟ` |
@@ -54,7 +54,7 @@ Convert your english text to pseudolocalized text in your browser, just go to [t
 | **L** | `Ĺ, Ļ, Ł, Ḷ, Ḹ, Ḻ, Ḽ` |
 | **M** | `Ṃ, Ϻ, Ṁ, M̃` |
 | **N** | `Ŋ, Ñ, Ṇ, Ṉ, Ṋ, Ռ, П` |
-| **O** | `Ο, Ö, Ó, Ò, Ō, Ǒ, Ṍ, Ṑ, Ṓ, Ṏ` |
+| **O** | `Ο, Ö, Ó, Ò, Ō, Ǒ, Ṍ, Ṑ, Ṓ, Ṏ, Ǿ` |
 | **P** | `Þ, Ƥ, Ṗ, Ρ, Ƥ, Բ, Ρ` |
 | **Q** | `ⵕ, Ꝗ, Q` |
 | **R** | `Ŕ, Ŗ, Ř, Ȓ, Ṙ, Ṛ, Ṝ, Ṟ` |
