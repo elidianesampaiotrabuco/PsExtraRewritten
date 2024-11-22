@@ -2,8 +2,6 @@
 > [!NOTE]  
 > Development status: 8% finished (this means that the site is an alpha stage)
 
-> [!IMPORTANT]  
-> development of psextra: rewritten is currently paused. it will be unpaused soon.
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
