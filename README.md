@@ -1,6 +1,6 @@
 # PsExtra: Rewritten (WIP)
 > [!NOTE]  
-> Development status: 8% finished (this means that the site is an alpha stage)
+> Development status: 10% finished (this means that the site is an alpha stage)
 
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
