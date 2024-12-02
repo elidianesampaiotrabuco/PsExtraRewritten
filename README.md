@@ -2,10 +2,12 @@
 > [!NOTE]  
 > Development status: 10% finished (this means that the site is an alpha stage)
 
+> [!IMPORTANT]  
+> Due to a thunderstorm, development of PsExtra: Rewritten is halted until further notice. Sorry for the inconvenience.
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
-![Static Badge](https://img.shields.io/badge/github-v0.1.2--alpha.2102-lightgrey?logo=github&logoColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/github-v0.1.3.1-lightgrey?logo=github&logoColor=lightgrey)
 
 ## Usage
 Convert your english text to pseudolocalized text in your browser, just go to [this page](https://elidianesampaiotrabuco.github.io/PsExtraRewritten/)!
