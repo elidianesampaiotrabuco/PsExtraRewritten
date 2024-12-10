@@ -2,8 +2,6 @@
 > [!NOTE]  
 > Development status: 10% finished (this means that the site is an alpha stage)
 
-> [!IMPORTANT]  
-> Due to a thunderstorm, development of PsExtra: Rewritten is halted until further notice. Sorry for the inconvenience.
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
