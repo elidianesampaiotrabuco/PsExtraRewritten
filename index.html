@@ -94,7 +94,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center mb-2">PsExtra: Rewritten (v0.1.41)</h1>
+        <h1 class="text-center mb-2">PsExtra: Rewritten (v0.1.43)</h1>
         <h4 style="color:white;" class="text-center mb-4">W.I.P rewrite for PsExtra</h4>
         <div class="row">
             <div class="col-md-6">
@@ -117,7 +117,7 @@
             <div class="col-md-6">
                 <div class="margin form-group">
                     <textarea class="form-control" id="pseudoText" rows="5"
-                        placeholder="Þƨèúδôℓôçáℓïƺèδ ƭèжƭ ωïℓℓ áƥƥèář λèřè" readonly></textarea>
+                        placeholder="Pseudolocalized text will appear here" readonly></textarea>
                     <button id="copyButton" class="copy-btn btn btn-primary btn-block btn-clip"
                         onclick="copyToClipboard()">Copy
                         to Clipboard</button>
@@ -128,8 +128,8 @@
     <footer class="footer fixed-bottom py-3 bg-light">
         <div class="container text-center">
             <div class="d-flex flex-column justify-content-center align-items-center">
-                <span style="font-weight: 500;" class="text-muted mb-2">Created by <a style="font-weight: 650;"
-                        href="https://github.com/elidianesampaiotrabuco">ASTerisk Games</a></span>
+                <span style="font-weight: 500;" class="text-muted mb-2">Made by <a style="font-weight: 650;"
+                        href="https://github.com/elidianesampaiotrabuco">ASTerisk Games</a> :)</span>
             </div>
         </div>
     </footer>
@@ -230,7 +230,7 @@
         function copyToClipboard() {
             const pseudoText = document.getElementById('pseudoText').value;
             navigator.clipboard.writeText(pseudoText).catch(err => {
-                console.error('Failed to copy text: ', err);
+                console.error('[PsExtra: Rewritten] Failed to copy text: ', err);
             });
         }
     </script>
