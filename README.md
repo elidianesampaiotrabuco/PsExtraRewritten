@@ -1,9 +1,6 @@
-# PsExtra: Rewritten (WIP, ON HOLD)
+# PsExtra: Rewritten (WIP)
 > [!NOTE]  
 > Development status: 10% finished (this means that the site is an alpha stage)
-
-> [!IMPORTANT]  
-> PsExtra Rewritten and Lite are temporarily offline due to a storm. Also, development of PsExtra: Rewritten is on hold during that time. We apologize for the inconvenience.
 
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
