@@ -5,7 +5,7 @@
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
-![Static Badge](https://img.shields.io/badge/github-v0.1.4-lightgrey?logo=github&logoColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/github-v0.1.43-lightgrey?logo=github&logoColor=lightgrey)
 
 ## Usage
 Convert your english text to pseudolocalized text in your browser, just go to [this page](https://elidianesampaiotrabuco.github.io/PsExtraRewritten/)!
@@ -60,7 +60,7 @@ Convert your english text to pseudolocalized text in your browser, just go to [t
 | **S** | `§, Ş, Ƨ, Ṡ, Ṣ, Ṥ, Ṧ, Ṩ, Ƽ` |
 | **T** | `Ţ, Ț, Ŧ, Ƭ, Ʈ, Ť` |
 | **U** | `У, Ü, Ú, Ù, Ū, Ǔ, Ŭ, Ũ, Ʉ, Ứ, Ử, Ữ` |
-| **V** | `Ṽ, Ṿ, ᶌ, Ν, Ѷ, Ѵ, Ʋ` |
+| **V** | `Ṽ, Ṿ, ᶌ, Ν, Ѷ, Ѵ, Ʋ, Ꝟ` |
 | **W** | `Ŵ, Ẁ, Ẃ, Ẅ, Ẇ, Ẉ, ẘ, ⱳ, Ɯ, Ш, Щ` |
 | **X** | `Ẋ, Ҳ, Ҳ, Ж` |
 | **Y** | `Ƴ, ¥, Ұ, Ỷ, Ẏ, Ý, Ɣ` |
