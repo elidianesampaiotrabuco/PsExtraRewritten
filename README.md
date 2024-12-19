@@ -5,7 +5,7 @@
 
 ![GitHub Cover](https://raw.githubusercontent.com/elidianesampaiotrabuco/PsExtraRewritten/main/img/github-banner.png)
 
-![Static Badge](https://img.shields.io/badge/github-v0.1.3.1-lightgrey?logo=github&logoColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/github-v0.1.4-lightgrey?logo=github&logoColor=lightgrey)
 
 ## Usage
 Convert your english text to pseudolocalized text in your browser, just go to [this page](https://elidianesampaiotrabuco.github.io/PsExtraRewritten/)!
